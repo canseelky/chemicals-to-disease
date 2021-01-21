@@ -41,10 +41,12 @@ $ ls \
    |- setuptools-40.8.0.dist-info 
    |- setuptools 
    |- easy_install.py 
+ |-fig
 |- Classification.ipynb 
 |- DataWrangling.ipynb 
 |- README.md 
 |- pyvenv.cfg  
+|-Report.tex
 |- requirement.txt 
 
 /.ipynb_checkpoints : include checkpoint file of project
@@ -54,6 +56,8 @@ $ ls \
 /Classification.ipynb : include classification file of project
 /DataWrangling.ipynb : include preprocessing file of project
 /README.md : include project information
+/fig: includes figures used in the report.
+/Report.tex : the project report
 /pyvenv.cfg : include python version and project directory
 ```
 
