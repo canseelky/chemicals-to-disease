@@ -4,7 +4,7 @@ The dataset which we use contains information about whether a chemical in a drug
 Dataset includes chemical names, disease names, and aggregated judgments of five contributors.
 # Team & Role: 
 Cansel Hatice Küçükyılmaz- Data Wrangling, Classification \
-Aynur Salman - Data Wrangling, Classification \
+Aynur Salman - Data Wrangling, Classification 
 # Structure: 
 $ pwd \
 /path/to/project/directory/\
@@ -50,6 +50,9 @@ $ ls \
 /README.md : include project information\
 /pyvenv.cfg : include python version and project directory\
 # Language, version and main file: 
+```bash
 Language :Python \
 Version   :3.7 \
 Source of Dataset: : https://data.world/crowdflower/chems-contributing-to-disease/workspace/data-dictionary
+```
+
