@@ -41,12 +41,12 @@ $ ls \
    |- setuptools-40.8.0.dist-info 
    |- setuptools 
    |- easy_install.py 
- |-fig
+|- fig
 |- Classification.ipynb 
 |- DataWrangling.ipynb 
 |- README.md 
 |- pyvenv.cfg  
-|-Report.tex
+|- Report.tex
 |- requirement.txt 
 
 /.ipynb_checkpoints : include checkpoint file of project
